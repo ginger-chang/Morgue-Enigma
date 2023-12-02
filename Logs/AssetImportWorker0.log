@@ -601,3 +601,11 @@ Received Import Request.
 Start importing Assets/devotid/Lighter/Prefabs/Lighter_Prefab.prefab using Guid(4ef4628f5f55fbd43b9fd014cc065b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5932b8d3d7a8b873118c78a95a29b72') in 0.175812 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 29
+========================================================================
+Received Import Request.
+  Time since last request: 257.655113 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(dd252356430b1413a995196d2723619b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(dd252356430b1413a995196d2723619b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e5b2908df099504173705aaef615fb') in 0.004498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
