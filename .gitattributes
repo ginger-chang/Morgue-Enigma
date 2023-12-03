@@ -1,0 +1,2 @@
+Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/outputs/apk/debug/launcher-debug.apk filter=lfs diff=lfs merge=lfs -text
+Builds/build3.apk filter=lfs diff=lfs merge=lfs -text

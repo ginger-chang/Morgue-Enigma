@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7C8DE70E-938E-69D7-D166-CF1AE2D99D7D}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Teleport.cs">
+    <Files>
+      <File FileName="../../xr/Lab1/Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/Teleport.cs" Line="8" Column="31" />
+      <File FileName="Assets/Samples/XR Interaction Toolkit/2.4.3/Meta Gaze Adapter/Runtime/Scripts/OculusEyeGazeInputAdapter.cs" Line="67" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fa8dc441-108d-4caf-8ab8-803eeb857ef4" />
+</Properties>
